@@ -1,0 +1,2 @@
+model_checkpoint_path: "/opt/TextClassification-master/runs/1577276369/model/clf-100"
+all_model_checkpoint_paths: "/opt/TextClassification-master/runs/1577276369/model/clf-100"
